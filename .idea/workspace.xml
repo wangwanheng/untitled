@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b48a49-cdfc-4aa2-9eff-fe36a9ce91c7" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LoopTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopTest6.java" afterDir="false" />
+    <list default="true" id="10b48a49-cdfc-4aa2-9eff-fe36a9ce91c7" name="变更" comment="2023,3,19">
+      <change afterPath="$PROJECT_DIR$/src/ArrTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrTest9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,30 +57,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.LoopTest6">
-    <configuration name="LoopTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopTest1" />
+  <component name="RunManager" selected="应用程序.ArrTest4">
+    <configuration name="ArrTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrTest4" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopTest6" />
+    <configuration name="ArrTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrTest6" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkipLoppDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SkipLoppDemo1" />
+    <configuration name="ArrTest7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrTest7" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkiploopDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SkiploopDemo2" />
+    <configuration name="ArrTest8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrTest8" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrTest9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrTest9" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,10 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.LoopTest6" />
-        <item itemvalue="应用程序.LoopTest1" />
-        <item itemvalue="应用程序.SkiploopDemo2" />
-        <item itemvalue="应用程序.SkipLoppDemo1" />
+        <item itemvalue="应用程序.ArrTest4" />
+        <item itemvalue="应用程序.ArrTest9" />
+        <item itemvalue="应用程序.ArrTest8" />
+        <item itemvalue="应用程序.ArrTest7" />
+        <item itemvalue="应用程序.ArrTest6" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679111540459</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="你好，世界">
+      <created>1679142795206</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679142795206</updated>
+    </task>
+    <task id="LOCAL-00007" summary="你好，世界">
+      <created>1679143340678</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679143340678</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="你好，世界" />
-    <option name="LAST_COMMIT_MESSAGE" value="你好，世界" />
+    <MESSAGE value="2023,3,19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023,3,19" />
   </component>
 </project>
