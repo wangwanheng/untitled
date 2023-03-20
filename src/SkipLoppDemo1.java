@@ -6,7 +6,7 @@ public class SkipLoppDemo1 {
                 //结束本次循环，继续下次循环。
                 continue;
             }
-            System.out.println("小老虎在吃第" + i +"个包子");
+            System.out.println("小老虎在吃第" + i + 1 +"个包子");
         }
     }
 }

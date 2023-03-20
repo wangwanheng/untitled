@@ -18,5 +18,6 @@ public class Test1 {
         System.out.println(ge);
         System.out.println(shi);
         System.out.println(bai);
+        System.out.println("你好");
     }
 }

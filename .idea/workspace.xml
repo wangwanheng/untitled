@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b48a49-cdfc-4aa2-9eff-fe36a9ce91c7" name="变更" comment="2023,3,19">
-      <change afterPath="$PROJECT_DIR$/src/ArrTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrTest9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="10b48a49-cdfc-4aa2-9eff-fe36a9ce91c7" name="变更" comment="2023,3,19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunManager" selected="应用程序.ArrTest4">
@@ -93,15 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.ArrTest4" />
-        <item itemvalue="应用程序.ArrTest9" />
-        <item itemvalue="应用程序.ArrTest8" />
-        <item itemvalue="应用程序.ArrTest7" />
-        <item itemvalue="应用程序.ArrTest6" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -191,5 +171,9 @@
     <MESSAGE value="你好，世界" />
     <MESSAGE value="2023,3,19" />
     <option name="LAST_COMMIT_MESSAGE" value="2023,3,19" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
