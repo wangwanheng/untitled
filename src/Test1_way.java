@@ -17,27 +17,10 @@ public class Test1_way {
 
     //2、先判断该月份是旺季还是淡季
     if (month >= 5 && month <= 10) {
-        //旺季 //3、据徐判断当前机票是头等舱还是经济舱
-        if (seat == 0) {
-            //头等舱
-            ticket = (int) (ticket * 0.9);
-        } else if (seat == 1) {
-            //经济舱
-            ticket = (int) (ticket * 0.85);
-        } else {
-            System.out.println("没有这个舱位");
-        }
+        ticket = getTicket(seat, ticket, 0.9, 0.85);
     } else if ((month >= 1 && month <= 4) || (month >= 11 && month <= 12)) {
         //淡季  //3、据徐判断当前机票是头等舱还是经济舱
-        if (seat == 0) {
-            //头等舱
-            ticket = (int) (ticket * 0.7);
-        } else if (seat == 1) {
-            //经济舱
-            ticket = (int) (ticket * 0.65);
-        } else {
-            System.out.println("没有这个舱位");
-        }
+        ticket = getTicket(seat, ticket, 0.7, 0.65);
 
     } else {
         //表示键盘录入的月份是一个非法数据
@@ -46,4 +29,20 @@ public class Test1_way {
     System.out.println(ticket);
     }
 
+    private static int getTicket(int seat, int ticket, double x, double x1) {
+        //旺季 //3、据徐判断当前机票是头等舱还是经济舱
+        if (seat == 0) {
+            //头等舱
+            ticket = (int) (ticket * x);
+        } else if (seat == 1) {
+            //经济舱
+            ticket = (int) (ticket * x1);
+        } else {
+            System.out.println("没有这个舱位");
+        }
+        return ticket;
+    }
+
 }
+                                                                                                              //先自己学习手动设计方法
+                                                                                                     // 快捷键：   ctrl + alt + M   "自动抽取方法"
