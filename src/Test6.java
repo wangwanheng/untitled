@@ -1,5 +1,6 @@
 public class Test6 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         //某系统的数字密码（大于0）.比如1983，采用加密方式进行传输。
         //规则如下：
         //      每位数加上5
@@ -28,3 +29,9 @@ public class Test6 {
     }
 
 }
+=======
+
+    }
+}
+
+>>>>>>> origin/master
